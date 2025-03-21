@@ -1,0 +1,7 @@
+flask==2.0.1
+pyjwt==2.1.0
+gunicorn==20.1.0
+cryptography==36.0.0  # 可能需要这个来支持JWT某些算法
+python-dotenv==0.19.1  # 用于加载环境变量
+pytest==6.2.5
+requests==2.26.0 
